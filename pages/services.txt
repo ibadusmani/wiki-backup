@@ -1,0 +1,5 @@
+**<fs xx-large>Public</fs>**
+
+  * SpeedTest - [[https://speedtest.usmani.in/]] A proxied speedtest hosted on my server for personal use.
+  * PrivateBin - [[https://paste.usmani.in/]] Very advanced pastebin
+  * DokuWiki - [[https://usmani.in/ibad/doku.php]] 

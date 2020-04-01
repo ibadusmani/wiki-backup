@@ -1,0 +1,48 @@
+List of all the hardware i'm using and want to keep track of.
+
+**<fs x-large>Networking</fs>**
+  * TP-LINK TD-W8961N ADSL2+ - Modem Router
+  * D-Link DIR-615 T1 - Router (OpenWrt & DD-WRT were unsupported for T version)
+  * Wayona WYN-12 - USB Adapter
+  * JioFi JMR815 - Wireless Data Card
+
+**<fs x-large>PC</fs>**
+  * Chiptronex X310B ATX
+  * ASRock M3A785GM-LE
+  * Cooler Master ELITE 450 - V3
+  * ZOTAC GeForce GTX 1060 Mini (6GB GDDR5)
+  * Intel SSD X18-M Series 80GB; Seagate ST500DM002 7200rpm 500GB 
+  * AMD Phenom II x4 B60 (overclocked 3.5GHz) + Cooler Master HYPER 212 EVO
+  * Crucial 2x4GB DDR3 1600MHz
+
+**<fs x-large>Laptop</fs>**
+  * HP Pavilion Notebook 15-ab522tx
+  * i5-6200U
+  * 8GB DDR3L 1600MHz SDRAM (1x8)
+  * NVIDIA GeForce 940M (4GB DDR3L)
+  * Intel HD Graphics 520
+  * Kingston A400 2.5" 240GB; Toshiba 5400rpm 1TB
+  * 15.6" (1366x768)
+
+**<fs x-large>Laptop</fs>**
+  * HCL ME ICON L 44
+  * Pentium Dual Core T4500
+  * Hynix 1GB DDR2 800MHz
+  * Intel Graphics Media Accelerator 4500M
+  * WD 500GB
+  * 14" (1366x768)
+
+**<fs x-large>Phones</fs>**
+  * Motorola C Plus (Panelli) - Stock
+  * Xiaomi Redmi 4 (Santoni) - Official LineageOS 15.1
+  * Xiaomi Redmi Note 7 Pro (Violet) - Official Pixel Experience 10
+
+**<fs x-large>Peripherals and Other</fs>**
+  * Raspberry Pi 3 Model B
+  * Dell E178FP 1024x1024 Unlocked 75Hz
+  * Redgear MT-01 Blaze 3
+  * Redgear Dragonwar ELE-G9
+  * Sennheiser CX 180 Street II In-Ear
+  * WD Elements 1TB External Hard Drive
+  * Dell Venue 8 3840
+  * Terabyte HDMI to VGA Adapter

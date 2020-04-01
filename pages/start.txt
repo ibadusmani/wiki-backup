@@ -1,0 +1,24 @@
+**<fs xx-large>About</fs>** 
+
+This wiki is supposed to document information so i don't have to look things up. 
+
+
+** <fs xx-large>List of all pages</fs>** 
+
+  * **My** :
+    * [[Résumé]]
+    * [[Hardware]] ​
+    * [[Software]]
+    * [[Services]]
+    * [[Interesting links]]
+
+**<fs xx-large>Contact me</fs>** 
+
+  * Email - [[ibadusmani4@gmail.com|ibadusmani4@gmail.com]]
+  * Whatsapp - [[https://wa.me/919036528186|+91 90365 28186]]
+  * Telegram - [[https://t.me/ibadusmani|@ibadusmani]]
+
+**<fs xx-large>Other Profiles</fs>**
+
+  * GitHub - [[https://github.com/ibadusmani|@ibadusmani]]
+  * LinkedIn - [[https://www.linkedin.com/in/ibadusmani/|@ibadusmani]]

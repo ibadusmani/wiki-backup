@@ -1,0 +1,32 @@
+This page serves as a reminder of software & services that I frequently use. \\
+I personally prefer [[https://en.wikipedia.org/wiki/Free_software|"free software"]] over proprietary spyware but, unfortunately currently am valuing convenience over digital freedom.
+
+**<fs x-large>PC</fs>**<fs x-large>(Typically Gaming)</fs>
+
+  * Windows 10 Enterprise LTSC - A marginally de-bloated version of Windows
+  * Steam - The most popular video game distribution platform
+  * Chrome - Web browser
+  * Discord - Multimedia communication software
+  * Spotify - Music streaming service
+  * TeamViewer - GUI remote administration software
+
+**<fs x-large>Server</fs>**
+  * Mosh - A remote control tool (SSH Alternative)
+  * Apache - Web Server
+  * Gzip - File compression/decompression software
+  * Neofetch - CLI sysinfo utility to make myself look cool
+  * Ufw - Easy to use firewall
+  * Srcds - Tool that runs the server component of a Source game without the client component
+  * ruTorrent - Front end for the popular Bittorrent client rtorrent
+
+**<fs x-large>Laptop</fs>**
+
+  * Arch Linux with i3 Window Manager
+
+**<fs x-large>Android</fs>**
+  * Pixel Experience
+
+**<fs x-large>Browser Extensions</fs>**
+  * uBlock Origin
+  * Privacy Badger
+  * HTTPS Everywhere
