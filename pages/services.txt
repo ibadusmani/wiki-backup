@@ -1,6 +1,6 @@
 **<fs xx-large>Public</fs>**
 
-  * SpeedTest - [[https://speedtest.usmani.in/]] A proxied speedtest hosted on my server for personal use.
-  * PrivateBin - [[https://paste.usmani.in/]] Very advanced pastebin
-  * DokuWiki - [[https://usmani.in/ibad/doku.php]] 
-  * StartPage - [[https://start.usmani.in]]
+  * SpeedTest - [[https://speedtest.usmani.in]] - Proxied speedtest hosted on my server for personal use [[https://github.com/librespeed/speedtest|[1]]] 
+  * PrivateBin - [[https://paste.usmani.in]] - Very advanced pastebin [[https://github.com/PrivateBin/PrivateBin|[2]]]
+  * StartPage - [[https://start.usmani.in]] - Custom startpage using bootstrap [[https://github.com/ibadusmani/startpage|[3]]] 
+  * DokuWiki - [[https://usmani.in/ibad/doku.php]] - This wiki [[https://github.com/ibadusmani/wiki-backup|[4]]]
