@@ -1,6 +1,3 @@
-1581952437	150.129.88.85	E	software	ibadusmani4			105
-1582040928	150.129.88.85	E	software	ibadusmani			40
-1582040982	150.129.88.85	E	start	ibadusmani			-18
 1582041007	150.129.88.85	E	hardware	ibadusmani			1
 1582041505	150.129.88.85	E	start	ibadusmani			-9
 1582042108	150.129.88.85	E	start	ibadusmani			22
@@ -21,3 +18,7 @@
 1586513189	150.129.88.85	E	services	ibadusmani			89
 1586513226	150.129.88.85	E	services	ibadusmani			2
 1586513459	150.129.88.85	E	services	ibadusmani			151
+1586704715	150.129.88.85	E	resume	ibadusmani			26
+1586704737	150.129.88.85	E	resume	ibadusmani			0
+1586705254	150.129.88.85	E	resume	ibadusmani			-6
+1586705275	150.129.88.85	E	resume	ibadusmani			-1

@@ -5,17 +5,17 @@ My hobbies are configuring and self-hosting varying services & visually modifyin
 
 
 __<fs medium>Education</fs>__
-  * Diploma in Computer Science from RNSRPM, Murudeshwar (Ongoing)
+  * Diploma in CSE from [[https://rnspolytechnic.in|RNS Polytechnic]], Murudeshwar (Ongoing)
   * Hardware & Networking course from GIT IT Academy, Hubli (2016)
   * SSLC from St.Joseph's High School, Karwar (2015)
 
 __<fs medium>Technical Background</fs>__
-  * Computer languages(novice): Bash, C, PHP, HTML/CSS.
+  * Computer languages(novice): Bash, C, PHP, HTML/CSS
   * Operating Systems:
      - Linux- Ubuntu, CentOS, Arch
      - Windows- Server/XP/Vista/7/8/10
   * Web Server: Apache
-  * Others: SSH, FTP, MySQL, MS Office
+  * Others: Bootstrap, MS Office
 
 
 __<fs medium>Other</fs>__
