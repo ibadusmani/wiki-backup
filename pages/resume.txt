@@ -15,7 +15,7 @@ __<fs medium>Technical Background</fs>__
      - Linux- Ubuntu, CentOS, Arch
      - Windows- Server/XP/Vista/7/8/10
   * Web Server: Apache
-  * Others: Bootstrap, Ms Office
+  * Others: Bootstrap, MS Office
 
 
 __<fs medium>Other</fs>__
