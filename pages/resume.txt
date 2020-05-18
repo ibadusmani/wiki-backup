@@ -10,12 +10,12 @@ __<fs medium>Education</fs>__
   * SSLC from St.Joseph's High School, Karwar (2015)
 
 __<fs medium>Technical Background</fs>__
-  * Computer languages(novice): Bash, C, PHP, HTML/CSS
+  * Computer languages(novice): Bash, C, Python, HTML/CSS
   * Operating Systems:
      - Linux- Ubuntu, CentOS, Arch
      - Windows- Server/XP/Vista/7/8/10
   * Web Server: Apache
-  * Others: Bootstrap, MS Office
+  * Others: Bootstrap, MS Office, SRCDS
 
 
 __<fs medium>Other</fs>__
