@@ -30,3 +30,4 @@ I personally prefer [[https://en.wikipedia.org/wiki/Free_software|"free software
   * uBlock Origin
   * Privacy Badger
   * HTTPS Everywhere
+  * Dark Reader
